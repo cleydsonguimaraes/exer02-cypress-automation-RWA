@@ -1,0 +1,1 @@
+# exer02-cypress-automation-RWA
